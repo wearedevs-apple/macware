@@ -19,7 +19,6 @@ If you’ve been searching for **macware executor**, **macware roblox executor**
 
 MacWare is the first truly native Roblox script executor designed from the ground up for Apple Silicon and iOS. No emulation. No performance tax. Just pure, clean execution that respects your Mac.
 
----
 
 ## ✨ Features
 
@@ -34,7 +33,6 @@ MacWare is the first truly native Roblox script executor designed from the groun
 - 💬 **Thriving Discord Community** — The official **macware executor discord** is one of the most active and helpful in the scene.
 - 🧠 **Smart Debugger** — Real-time error highlighting and logging that actually helps you fix scripts.
 
----
 
 ## 🏆 Why Mac Users Are Switching to MacWare
 
@@ -55,7 +53,6 @@ Here’s how it actually compares:
 
 MacWare isn’t just “another executor.” It’s currently the **best Roblox executor for Mac** in 2026.
 
----
 
 ## 💎 Benefits That Actually Matter
 
@@ -68,7 +65,6 @@ MacWare isn’t just “another executor.” It’s currently the **best Roblox 
 > *"I was so close to selling my MacBook just to play Roblox with a decent executor. Then I found MacWare. Native performance on my M3 Max is insane. The UI is cleaner than most paid options. I can’t recommend it enough."*
 > — **@itslunarv2**, MacWare Discord & Reddit ⭐⭐⭐⭐⭐
 
----
 
 ## 📦 How to Install
 
@@ -90,7 +86,6 @@ Done in under 25 seconds.
 4. Go to **Settings → General → VPN & Device Management** and trust the profile
 5. Launch MacWare → Open Roblox → Inject
 
----
 
 ## 🖥️ Compatibility
 
@@ -99,14 +94,12 @@ Done in under 25 seconds.
 - Fully optimized for **M1, M2, M3, and M4** chips
 - Supports latest Roblox versions (tested up to 0.675 — July 2026)
 
----
 
 ## ⚙️ System Requirements
 
 **Minimum:** macOS 13, 8GB RAM, 120MB storage  
 **Recommended:** macOS 14/15, Apple M2/M3/M4, 16GB+ RAM
 
----
 
 ## 🛡️ Tips for Safer Use
 
@@ -120,7 +113,6 @@ The **macware reddit** community is very open about best practices:
 
 > ⚠️ **Disclaimer:** MacWare is for educational and entertainment purposes. Using executors violates Roblox ToS and can result in account termination. Use at your own risk.
 
----
 
 ## 📋 Changelog
 
@@ -140,7 +132,6 @@ The **macware reddit** community is very open about best practices:
 - Native M4 optimization
 - Brand new UI framework
 
----
 
 ## 🔧 Common Issues & Fixes
 
@@ -150,7 +141,6 @@ The **macware reddit** community is very open about best practices:
 
 **Scripts not working** — Most likely outdated. Check the Discord for updated versions.
 
----
 
 ## ❓ FAQ
 
@@ -184,7 +174,6 @@ No — Macware works on non-jailbroken iOS devices through standard sideloading 
 **Can I use the Macware API for my own scripts?**
 Yes. The **macware api roblox executor** is fully documented in the `/docs` folder. Developers can use the **macware api roblox executor** layer to hook into game environments programmatically.
 
----
 
 ## 🌐 Community & Links
 
