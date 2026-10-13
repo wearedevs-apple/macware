@@ -135,44 +135,57 @@ The **macware reddit** community is very open about best practices:
 
 ## 🔧 Common Issues & Fixes
 
-**"MacWare can't be opened"** — Right-click → Open, or go to Privacy & Security and click “Open Anyway”.
+### "MacWare can't be opened"
+Right-click → Open, or go to Privacy & Security and click “Open Anyway”.
 
-**Injection fails** — Make sure Roblox is fully loaded *inside* a game before injecting.
+### Injection fails
+Make sure Roblox is fully loaded *inside* a game before injecting.
 
-**Scripts not working** — Most likely outdated. Check the Discord for updated versions.
+### Scripts not working  
+Most likely outdated. Check the Discord for updated versions.
 
 
 ## ❓ FAQ
 
-**Is MacWare safe?**  
-Yes. It is currently one of the safest native executors available. Regular audits and Apple notarization help maintain its **macware safe** reputation.
+- **Is MacWare safe?**
+  
+  Yes. It is currently one of the safest native executors available. Regular audits and Apple notarization help maintain its **macware safe** reputation.
 
-**Is MacWare better than KRNL?**  
-For most users — yes. Better performance, cleaner UI, faster updates, and stronger API.
+- **Is MacWare better than KRNL?**
 
-**Where do I download Appleware?**
-The only official source for **macware download github** is this repository's releases page. Never download from third-party sites.
+  For most users — yes. Better performance, cleaner UI, faster updates, and stronger API.
 
-**Does MacWare have a Discord?**  
-Yes. The **macware executor discord** is extremely active with dedicated support channels.
+- **Where do I download Appleware?**
 
-**Does it work on M3 and M4 Macs?**  
-Perfectly. MacWare is one of the best optimized executors for Apple Silicon.
+  The only official source for **macware download github** is this repository's releases page. Never download from third-party sites.
 
-**Will I get banned?**  
-There is always risk with any executor. Using alts and responsible behavior significantly lowers that risk.
+- **Does MacWare have a Discord?**
 
-**Does Macware work on Intel Macs?**
-Yes — Macware supports both Intel and Apple Silicon Macs natively.
+  Yes. The **macware executor discord** is extremely active with dedicated support channels.
 
-**Can I use Macware on my iPad?**
-Absolutely — Macware offers full iPadOS support for iPad running iPadOS 15+.
+- **Does it work on M3 and M4 Macs?**
 
-**Does Macware require jailbreak?**
-No — Macware works on non-jailbroken iOS devices through standard sideloading methods.
+  Perfectly. MacWare is one of the best optimized executors for Apple Silicon.
 
-**Can I use the Macware API for my own scripts?**
-Yes. The **macware api roblox executor** is fully documented in the `/docs` folder. Developers can use the **macware api roblox executor** layer to hook into game environments programmatically.
+- **Will I get banned?**
+
+  There is always risk with any executor. Using alts and responsible behavior significantly lowers that risk.
+
+- **Does Macware work on Intel Macs?**
+
+  Yes — Macware supports both Intel and Apple Silicon Macs natively.
+
+- **Can I use Macware on my iPad?**
+
+  Absolutely — Macware offers full iPadOS support for iPad running iPadOS 15+.
+
+- **Does Macware require jailbreak?**
+
+  No — Macware works on non-jailbroken iOS devices through standard sideloading methods.
+
+- **Can I use the Macware API for my own scripts?**
+
+  Yes. The **macware api roblox executor** is fully documented in the `/docs` folder. Developers can use the **macware api roblox executor** layer to hook into game environments programmatically.
 
 
 ## 🌐 Community & Links
